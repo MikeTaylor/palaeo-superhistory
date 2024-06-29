@@ -2,8 +2,8 @@
 
 **Michael P. Taylor <dino@miketaylor.org.uk>**  
 
-This respository contains work on an in-progress paper that will survey this history of Jensen's Big Three sauropods: _Supersaurus_, _Ultrasaurus_ and _Dystylosaurus_.
-**Spoiler alert!** Much of this will be be based on [my 2019 SVPCA presentation, _The past, present and future of Jensen’s Big Three sauropods_](http://www.miketaylor.org.uk/dino/pubs/svpca2019/abstract.html)
+This respository contains work on an in-progress paper that will survey the history of Jensen's Big Three sauropods: _Supersaurus_, _Ultrasaurus_ and _Dystylosaurus_.
+Much of this will be be based on [my 2019 SVPCA presentation, _The past, present and future of Jensen’s Big Three sauropods_](http://www.miketaylor.org.uk/dino/pubs/svpca2019/abstract.html)
 and [a series of SV-POW! posts entitled _Supersaurus, Ultrasaurus and Dystylosaurus in the 21st Century_](https://svpow.com/supersaurus-and-co-in-2019/).
 
 Anyone is welcome to [file issues](https://github.com/MikeTaylor/palaeo-superhistory/issues).
